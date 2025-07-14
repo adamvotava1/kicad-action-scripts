@@ -1,0 +1,14 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "Adam's KiCad Scripts",
+  "description": "A collection of useful scripts for KiCad.",
+  "maintainer": {
+    "name": "Adam",
+    "contact": {
+      "web": "https://github.com/adamvotava1/kicad-action-scripts"
+    }
+  },
+  "packages": {
+    "url": "https://raw.githubusercontent.com/adamvotava1/kicad-action-scripts/main/packages.json"
+  }
+}
