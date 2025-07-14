@@ -10,18 +10,16 @@
       "author": {
         "name": "Adam",
         "contact": {
-          "web": "https://github.com/adam/kicad-action-scripts"
-        }
+          "web": "https://github.com/adam/kicad-action-scripts"}
       },
       "maintainer": {
         "name": "Adam",
         "contact": {
-          "web": "https://github.com/adam/kicad-action-scripts"
-        }
+          "web": "https://github.com/adam/kicad-action-scripts"}
       },
       "license": "MIT",
       "resources": {
-        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"
+        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"}
       },
       "tags": [
         "zone",
@@ -49,18 +47,16 @@
       "author": {
         "name": "JS Reynaud",
         "contact": {
-          "web": "https://github.com/jsreynaud/kicad-action-scripts"
-        }
+          "web": "https://github.com/jsreynaud/kicad-action-scripts"}
       },
       "maintainer": {
         "name": "Adam",
         "contact": {
-          "web": "https://github.com/adam/kicad-action-scripts"
-        }
+          "web": "https://github.com/adam/kicad-action-scripts"}
       },
       "license": "MIT",
       "resources": {
-        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"
+        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"}
       },
       "tags": [
         "via",
