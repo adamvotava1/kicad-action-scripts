@@ -10,23 +10,25 @@
       "author": {
         "name": "Adam",
         "contact": {
-          "web": "https://github.com/adam/kicad-action-scripts"}
+          "web": "https://github.com/adam/kicad-action-scripts"
+        }
       },
       "maintainer": {
         "name": "Adam",
         "contact": {
-          "web": "https://github.com/adam/kicad-action-scripts"}
+          "web": "https://github.com/adam/kicad-action-scripts"
+        }
       },
       "license": "MIT",
       "resources": {
-        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"}
+        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"
       },
-      "tags" [
+      "tags": [
         "zone",
         "circular",
         "keepout"
       ],
-      "versions" [
+      "versions": [
         {
           "version": "1.0.2",
           "status": "stable",
@@ -36,7 +38,8 @@
           "download_size": 5011,
           "install_size": 17288
         }
-      ],
+      ]
+    },
     {
       "name": "Via Stitching",
       "description": "Via Stitching for PCB Zone.",
@@ -46,23 +49,25 @@
       "author": {
         "name": "JS Reynaud",
         "contact": {
-          "web": "https://github.com/jsreynaud/kicad-action-scripts"}
+          "web": "https://github.com/jsreynaud/kicad-action-scripts"
+        }
       },
       "maintainer": {
         "name": "Adam",
         "contact": {
-          "web": "https://github.com/adam/kicad-action-scripts"}
+          "web": "https://github.com/adam/kicad-action-scripts"
+        }
       },
       "license": "MIT",
       "resources": {
-        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"}
+        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"
       },
-      "tags" [
+      "tags": [
         "via",
         "stitching",
         "grounding"
       ],
-      "versions" [
+      "versions": [
         {
           "version": "1.0.2",
           "status": "stable",
@@ -73,5 +78,6 @@
           "install_size": 75512
         }
       ]
+    }
   ]
 }
