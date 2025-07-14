@@ -1,0 +1,12 @@
+{
+  "packages": [
+    {
+      "path": "CircularZone/metadata.json",
+      "type": "plugin"
+    },
+    {
+      "path": "ViaStitching/metadata.json",
+      "type": "plugin"
+    }
+  ]
+}
