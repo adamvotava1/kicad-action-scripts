@@ -1,12 +1,65 @@
 {
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
   "packages": [
     {
-      "path": "CircularZone/metadata.json",
-      "type": "plugin"
+      "name": "Circular Zone",
+      "description": "Create a Circular Zone or a Circular Keepout Zone.",
+      "description_full": "This plugin creates a circular zone or a circular keepout zone. You can specify the center, radius, and number of segments. It is useful for creating round keepout areas or special zones on the PCB.",
+      "identifier": "com.github.adam.kicad-action-scripts.circularzone",
+      "type": "plugin",
+      "author": {
+        "name": "Adam",
+        "contact": {
+          "web": "https://github.com/adam/kicad-action-scripts"
+        }
+      },
+      "maintainer": {
+        "name": "Adam",
+        "contact": {
+          "web": "https://github.com/adam/kicad-action-scripts"
+        }
+      },
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "status": "stable",
+          "kicad_version": "6.0",
+          "download_url": "https://raw.githubusercontent.com/adamvotava1/kicad-action-scripts/main/packages/CircularZone.zip",
+          "download_sha256": "62d69d264f37ca14500560976def629b47dccace4120686b6bc5f320fc367640",
+          "download_size": 5011
+        }
+      ]
     },
     {
-      "path": "ViaStitching/metadata.json",
-      "type": "plugin"
+      "name": "Via Stitching",
+      "description": "Via Stitching for PCB Zone.",
+      "description_full": "This plugin fills a zone with vias (stitching). It is useful for creating a strong connection between copper layers, for example for grounding.",
+      "identifier": "com.github.adam.kicad-action-scripts.viastitching",
+      "type": "plugin",
+      "author": {
+        "name": "JS Reynaud",
+        "contact": {
+          "web": "https://github.com/jsreynaud/kicad-action-scripts"
+        }
+      },
+      "maintainer": {
+        "name": "Adam",
+        "contact": {
+          "web": "https://github.com/adam/kicad-action-scripts"
+        }
+      },
+      "license": "GPL-2.0-or-later",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "status": "stable",
+          "kicad_version": "6.0",
+          "download_url": "https://raw.githubusercontent.com/adamvotava1/kicad-action-scripts/main/packages/ViaStitching.zip",
+          "download_sha256": "baf6ea7473daf86c7d2d8b8cb81f89f6b96b6ef88c9cf9bbedb083158b5acc35",
+          "download_size": 21053
+        }
+      ]
     }
   ]
 }
