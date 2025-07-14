@@ -20,14 +20,23 @@
         }
       },
       "license": "MIT",
+      "resources": {
+        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"
+      },
+      "tags": [
+        "zone",
+        "circular",
+        "keepout"
+      ],
       "versions": [
         {
-          "version": "1.0.1",
+          "version": "1.0.2",
           "status": "stable",
           "kicad_version": "6.0",
           "download_url": "https://raw.githubusercontent.com/adamvotava1/kicad-action-scripts/main/packages/CircularZone.zip",
           "download_sha256": "62d69d264f37ca14500560976def629b47dccace4120686b6bc5f320fc367640",
-          "download_size": 5011
+          "download_size": 5011,
+          "install_size": 17288
         }
       ]
     },
@@ -50,14 +59,23 @@
         }
       },
       "license": "GPL-2.0-or-later",
+      "resources": {
+        "homepage": "https://github.com/adamvotava1/kicad-action-scripts"
+      },
+      "tags": [
+        "via",
+        "stitching",
+        "grounding"
+      ],
       "versions": [
         {
-          "version": "1.0.1",
+          "version": "1.0.2",
           "status": "stable",
           "kicad_version": "6.0",
           "download_url": "https://raw.githubusercontent.com/adamvotava1/kicad-action-scripts/main/packages/ViaStitching.zip",
           "download_sha256": "baf6ea7473daf86c7d2d8b8cb81f89f6b96b6ef88c9cf9bbedb083158b5acc35",
-          "download_size": 21053
+          "download_size": 21053,
+          "install_size": 75512
         }
       ]
     }
