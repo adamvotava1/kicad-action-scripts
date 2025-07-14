@@ -58,7 +58,7 @@
           "web": "https://github.com/adam/kicad-action-scripts"
         }
       },
-      "license": "GPL-3.0-or-later",
+      "license": "MIT",
       "resources": {
         "homepage": "https://github.com/adamvotava1/kicad-action-scripts"
       },
